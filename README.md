@@ -37,7 +37,8 @@ To replicate the analysis:
 
 - Execute SQL scripts to explore various functions and analyses.
 
-Contributing 🚀
+## Contributing 🚀
+
 Found issues, have suggestions, or want to contribute? Open an issue or pull request – your contributions are valued!
 
 
