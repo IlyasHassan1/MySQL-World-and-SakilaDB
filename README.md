@@ -37,6 +37,16 @@ To replicate the analysis:
 
 - Execute SQL scripts to explore various functions and analyses.
 
+## World DB
+
+![world](https://github.com/IlyasHassan1/MySQL-World-and-SakilaDB/assets/156099554/b83d0274-0165-44ce-8ec7-9547633fb226)
+
+
+
+## Sakila DB
+![sakila](https://github.com/IlyasHassan1/MySQL-World-and-SakilaDB/assets/156099554/61980976-16cc-46c3-b55c-31e88d12479f)
+
+
 ## Contributing 🚀
 
 Found issues, have suggestions, or want to contribute? Open an issue or pull request – your contributions are valued!
